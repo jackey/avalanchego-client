@@ -3,7 +3,7 @@
 package api
 
 import (
-	"avalanchego-client/pkg/network"
+	"github.com/jackey/avalanchego-client/pkg/network"
 )
 
 //Calls command struct
