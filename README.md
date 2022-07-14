@@ -22,7 +22,7 @@ Go 1.15+
 
 ## Installation
 
-> go get github.com/c1982/avalanchego-client
+> go get github.com/jackey/avalanchego-client
 
 ## Usage
 
@@ -32,8 +32,8 @@ Check out the cmd/examples/ directory to see how to use this libray.
 package main
 
 import (
-	"avalanchego-client/pkg/api"
-	"avalanchego-client/pkg/network"
+	"github.com/jackey/avalanchego-client/pkg/api"
+	"github.com/jackey/avalanchego-client/pkg/network"
 	"log"
 )
 
