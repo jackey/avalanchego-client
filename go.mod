@@ -1,4 +1,4 @@
-module avalanchego-client
+module github.com/jackey/avalanchego-client
 
 go 1.16
 
